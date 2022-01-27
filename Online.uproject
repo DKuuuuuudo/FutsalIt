@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DC290F26-4F35-5DFA-54A2-F88BB8322F18}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Online",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
